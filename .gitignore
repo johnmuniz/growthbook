@@ -51,6 +51,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
+temp_auto_push.bat
 *.log
 local_settings.py
 
@@ -101,7 +102,8 @@ ENV/
 .mypy_cache/
 
 # IDE settings
-.vscode/
 
 # Generated version file
-growthbook/_version.py
+growthbook/_version.py.gitignore
+temp_interactive_push.bat
+branch_structure.json
